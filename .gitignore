@@ -68,3 +68,6 @@ graphify-out/
 
 # custom junk
 bigfiles.sh
+strata-iq3*
+strata-launch.log
+update-parallel.sh
